@@ -1,0 +1,15 @@
+{
+    "name": "baiting",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+        "weui":"~0.4.1",
+        "jquery":"~1.12.3"
+    },
+    "devDependencies": {
+    }
+}
