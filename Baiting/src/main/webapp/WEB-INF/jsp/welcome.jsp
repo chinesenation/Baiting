@@ -28,7 +28,7 @@
                             <label class="weui_label">高cm</label>
                         </div>
                         <div class="weui_cell_bd weui_cell_primary">
-                            <input name="height" class="weui_input" type="number"  placeholder="请输入高度(cm)" required/>
+                            <input name="height" class="weui_input" type="text"  placeholder="请输入高度(cm)" required/>
                         </div>
                     </div>
 
@@ -37,7 +37,7 @@
                             <label class="weui_label">宽cm</label>
                         </div>
                         <div class="weui_cell_bd weui_cell_primary">
-                            <input name="width" class="weui_input" type="number"  placeholder="请输入宽度(cm)" required/>
+                            <input name="width" class="weui_input" type="text"  placeholder="请输入宽度(cm)" required/>
                         </div>
                     </div>
 
